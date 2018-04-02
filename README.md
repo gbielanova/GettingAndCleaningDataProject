@@ -1,6 +1,6 @@
 # Getting And Cleaning Data Project
 
-##Project task
+## Project task
 Getting and Cleaning Data Course Projectless 
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. You will be graded by your peers on a series of yes/no questions related to the project. You will be required to submit: 1) a tidy data set as described below, 2) a link to a Github repository with your script for performing the analysis, and 3) a code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md. You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 
@@ -20,7 +20,7 @@ Uses descriptive activity names to name the activities in the data set
 Appropriately labels the data set with descriptive variable names.
 From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-##How to run the project
+## How to run the project
 1. Change working directory to the one where git was cloned in one of the next ways:
 - in console write setwd(<path to git repo folder>)
 - open run_analysis.R in editor, uncomment line 16 and enter path there.
